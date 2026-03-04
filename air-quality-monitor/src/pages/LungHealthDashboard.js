@@ -1,5 +1,5 @@
 import React from 'react';
-import { AreaChart, Area, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, RadialBarChart, RadialBar } from 'recharts';
+import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, RadialBarChart, RadialBar } from 'recharts';
 import GaugeChart from '../components/GaugeChart';
 import MetricCard from '../components/MetricCard';
 import StatusBadge from '../components/StatusBadge';
